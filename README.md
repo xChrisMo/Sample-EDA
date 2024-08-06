@@ -6,8 +6,8 @@ The purpose of this analysis is simply **to explore this Data with minimal data 
 
 ## Dataset
 
-- Dataset: [Dataset Name]
-- File: [Dataset File]
+- Dataset: Dataset can be found on kaggle using this [link](https://www.kaggle.com/datasets/chirag02/ford-gobike-2019feb-tripdata)
+- File used: 201902-fordgobike-tripdata.csv
 - Size: [Number of Rows] rows, [Number of Columns] columns
 - Description: [Brief description of the dataset]
 
