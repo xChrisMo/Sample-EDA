@@ -24,7 +24,7 @@ A number of key finding were found, kindly head over to the *Conclusion* section
 2. Ensure you have all the required libraries installed
 3. Run the cells to reproduce the analysis
 
-##Context:
+## Context:
 For context, this was my first data wrangling exercise as of September 2021
 
 ## Licensing 
