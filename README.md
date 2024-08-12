@@ -5,8 +5,7 @@ This repository focuses on data wrangling of a sample dataset, with minimal emph
 
 ## Dataset
 
-- SOurce: The dataset can be accessed using this [link](https://www.kaggle.com/datasets/joniarroba/noshowappointments)
-This data gives information about no show appoinments in over 110,000 public healthcare appointments in Vitória, Espírito Santo. It aims to identify factors influencing patient no-shows, such as appointment day, patient demographics, and health conditions like hypertension and diabetes
+- SOurce: The dataset can be accessed using this [link](https://www.kaggle.com/datasets/joniarroba/noshowappointments). This data gives information about no show appoinments in over 110,000 public healthcare appointments in Vitória, Espírito Santo. It aims to identify factors influencing patient no-shows, such as appointment day, patient demographics, and health conditions like hypertension and diabetes
 
 - File used: Database_No_show_appointments/noshowappointments-kagglev2-may-2016.csv
 
